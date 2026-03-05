@@ -3,7 +3,7 @@
 
 A scenario simulator for the **Safer** (Simple Agreement for Future Equity with Repurchase) financial instrument. Generates quarterly cash flow projections, liquidity event analysis, and interactive HTML reports with charts.
 
-This simulator is a companion to [*Venture Capital Without Unicorns*](https://nextwave.partners/safer) by James Thomason. For portfolio-level Monte Carlo analysis, see the [Safer Monte Carlo Simulator](https://github.com/nextwave/safer-monte-carlo).
+This simulator is a companion to [*Venture Capital Without Unicorns*](https://www.amazon.com/dp/B0GR9D7S2W) by James Thomason. For portfolio-level Monte Carlo analysis, see the [Safer Monte Carlo Simulator](https://github.com/next-wave-partners/safer-monte-carlo).
 
 ## What It Does
 
